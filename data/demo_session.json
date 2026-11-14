@@ -1,0 +1,25 @@
+{
+  "posting": "Job Title: Software Engineering Intern\nCompany: TechNova Solutions (fictional)\n\nResponsibilities: Assist the backend development team in writing, testing, and debugging Python code. Collaborate on building internal REST APIs, participate in daily stand-up meetings, and document code changes.\n\nRequirements: Currently pursuing a degree in Computer Science, Information Systems, or a related field. Experience with Python and basic knowledge of Git version control. Must be detail-oriented and eager to learn in a fast-paced agile environment.\n",
+  "role_title": "Software Engineering Intern",
+  "questions": [
+    {
+      "id": 1,
+      "type": "behavioral",
+      "question": "Tell me about a time you had to learn a new tool, language, or concept quickly for a class or project. How did you approach it, and what was the result?",
+      "what_they_look_for": "Evidence of eagerness to learn and a practical self-directed learning approach, which fits a fast-paced agile environment."
+    },
+    {
+      "id": 2,
+      "type": "technical",
+      "question": "Suppose you are building a simple internal REST API in Python that lets a team look up, add, and update employee records. Which HTTP methods and endpoints would you use, and what would you do to test that it works correctly?",
+      "what_they_look_for": "Basic understanding of REST concepts, HTTP methods, and a sensible approach to testing and debugging Python code."
+    },
+    {
+      "id": 3,
+      "type": "situational",
+      "question": "Imagine you've finished a code change and pushed it with Git, and during stand-up the next day a teammate says your change broke something they were working on. How would you respond, and what steps would you take afterward, including documenting the fix?",
+      "what_they_look_for": "Collaboration, ownership, attention to detail, comfort with Git, and good communication and documentation habits."
+    }
+  ],
+  "attempts": []
+}
