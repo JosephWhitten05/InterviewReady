@@ -1,0 +1,6 @@
+Job Title: Software Engineering Intern
+Company: TechNova Solutions (fictional)
+
+Responsibilities: Assist the backend development team in writing, testing, and debugging Python code. Collaborate on building internal REST APIs, participate in daily stand-up meetings, and document code changes.
+
+Requirements: Currently pursuing a degree in Computer Science, Information Systems, or a related field. Experience with Python and basic knowledge of Git version control. Must be detail-oriented and eager to learn in a fast-paced agile environment.
