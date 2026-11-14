@@ -1,0 +1,3 @@
+Rough draft: I have used Python in my classes a lot, mostly for homework. I also know a bit about Git because we used it for a group project once. I am a fast learner and want to help the backend team.
+
+Polished: In my university coursework, I developed strong backend fundamentals, which I recently transferred to Python by building practice projects in cloud environments. During a recent campus hackathon, I collaborated using Git version control to manage our codebase without conflicts. I am eager to apply this hands-on debugging and version control experience to TechNova's agile backend team.
